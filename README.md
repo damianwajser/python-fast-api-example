@@ -1,8 +1,11 @@
 # python-fast-api-example
 
-install 
+## install 
+
 pip install uvicorn // install the server
+
 pip install -r requirements.txt // install dependencies
 
-run 
+## run 
+
 uvicorn main:app --reload // run app
